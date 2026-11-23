@@ -1,0 +1,6 @@
+{
+  "name": "Memoria Mechanica: The Sovereign Weaver",
+  "description": "Enes Öztürk imzalı 3D Anı-Mimarisi, Kintsugi fizik restorasyonu ve Zaman-Mekân Dikişi etkileşimli vitrini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
